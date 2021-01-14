@@ -11,13 +11,13 @@ body {
 #title {
 	width: 600px;
 	height: 150px;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_title.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_title.png');
 }
 
 /* penguin 1 sect. */
 
 .penguin1:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_1_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_1_hover.png');
 	cursor: pointer;
 }
 
@@ -25,16 +25,16 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_1.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_1.png');
 }
 
 .penguin1:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_1.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_1.png');
 }
 
 /* penguin 2 sect. */
 .penguin2:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_2_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_2_hover.png');
 	cursor: pointer;
 }
 
@@ -42,17 +42,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_2.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_2.png');
 	}
 
 .penguin2:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_2.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_2.png');
 }
 
 /* penguin 3 sect. */
 
 .penguin3:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_3_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_3_hover.png');
 	cursor: pointer;
 }
 
@@ -60,17 +60,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_3.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_3.png');
 }
 
 .penguin3:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_3.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_3.png');
 }
 
 /* penguin 4 sect. */
 
 .penguin4:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_4_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_4_hover.png');
 	cursor: pointer;
 }
 
@@ -78,17 +78,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_4.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_4.png');
 }
 
 .penguin4:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_4.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_4.png');
 }
 
 /* penguin 5 sect. */
 
 .penguin5:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_5_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_5_hover.png');
 	cursor: pointer;
 }
 
@@ -96,17 +96,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_5.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_5.png');
 }
 
 .penguin5:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_5.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_5.png');
 }
 
 /* penguin 6 sect. */
 
 .penguin6:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_6_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_6_hover.png');
 	cursor: pointer;
 }
 
@@ -114,17 +114,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_6.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_6.png');
 }
 
 .penguin6:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_6.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_6.png');
 }
 
 /* penguin 7 sect. */
 
 .penguin7:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_7_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_7_hover.png');
 	cursor: pointer;
 }
 
@@ -132,17 +132,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_7.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_7.png');
 }
 
 .penguin7:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_7.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_7.png');
 }
 
 /* penguin 8 sect. */
 
 .penguin8:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_8_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_8_hover.png');
 	cursor: pointer;
 }
 
@@ -150,17 +150,17 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_8.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_8.png');
 }
 
 .penguin8:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/penguin_8.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/penguin_8.png');
 }
 
 /* yeti */
 
 .yeti:hover {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_9_hover.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_9_hover.png');
 	cursor: pointer;
 }
 
@@ -168,9 +168,9 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/mound_9.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/mound_9.png');
 }
 
 .yeti:active {
-	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/Media/yeti.png');
+	background-image: url('C:/Users/royce/OneDrive/CSS Project 3/penguin_pngs/yeti.png');
 }
